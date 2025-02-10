@@ -1,0 +1,253 @@
+.conteiner {
+    position: relative;
+    width: 1219px;
+    height: 3314px;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0px auto;
+}
+.shapka {
+    width: 1219px;
+    height: 84px;
+    background-image: url(Rectangle.png);
+    background-size: cover;
+    z-index: 100;
+    position: fixed;
+}
+.logo {
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 55px;
+    width: 184x;
+    height: 45px;
+}
+.knopki {
+    margin-top: -37px ;
+    margin-right: 55px;
+    padding: 0;
+    width: 407px;
+    height: 29px;
+    font-size: 23px;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    float: right;
+}
+.block1 {
+    margin-top: 84px;
+    width: 1219px;
+    height: 403px;
+    background-image: url(image6.png);
+    background-size: cover;
+}
+.pipernet {
+   font-size: 72px;
+   text-align: center;
+   margin-top: 145px;
+   color: rgb(255, 255, 255);
+   font-family: sans-serif;
+}
+.block2 {
+    width: 1219px;
+    height: 719px;
+    background-image: url(TheProblem.png);
+    background-size: cover;
+}
+.problem {
+    font-size: 62px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #007765;
+}
+.paragraph {
+    margin: auto;
+    width: 1110px;
+    height: 492px;
+    font-size: 29px;
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.block3 {
+    width: 1219px;
+    height: 483px;
+    background-image: url(image7.png);
+    background-size: cover;
+}
+.phraza {
+    margin-top: 115px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 893px;
+    height: 228px;
+    font-size: 43px;
+    text-align: center;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+
+
+}
+.block4 {
+    width: 1219px;
+    height: 604px;
+    background-image: url(PPCbg.png);
+    background-size: cover;
+}
+.zagolovok {
+    width: 1110x;
+    height: 75px;
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    font-family: sans-serif;
+}
+.logo2 {
+    background-image: url(PPCLogo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 55px;
+    width: 115x;
+    height: 115px;
+    display: block;
+}
+.paragraph2 {
+    margin-top: -110px;
+    margin-left: 234px;
+    padding: 0;
+    width: 930px;
+    height: 110px;
+    font-size: 32px;
+    text-align: left;
+    font-family: sans-serif;
+}
+.paragraph3 {
+    margin: auto;
+    padding: 0;
+    width: 1110px;
+    height: 110px;
+    font-size: 32px;
+    text-align: left;
+    font-family: sans-serif;
+}
+.block5 {
+    width: 1219px;
+    height: 845px;
+    background-image: url(bg.png);
+    background-size: cover;
+}
+.zagolovok2 {
+    width: 1110x;
+    height: 75px;
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 48px;
+
+}
+.richard {
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 168x;
+    height: 168px;
+}
+.dinesh {
+    background-image: url(image1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 168x;
+    height: 168px;
+}
+.bertram {
+    background-image: url(image2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 168x;
+    height: 168px;
+}
+.jared {
+    background-image: url(image3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 168x;
+    height: 168px;
+}
+.monica {
+    background-image: url(image4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 168x;
+    height: 168px;
+}
+.nelson {
+    background-image: url(image5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 168x;
+    height: 168px;
+}
+.podval {
+    width: 1219px;
+    height: 176px;
+    background-image: url(Rectangle1.png);
+    background-size: cover;
+}
+.keller {
+    width: 540px;
+    height: 64px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    color: #ffffff;
+}
+.name {
+    color: #007765;
+    font-style: sans-serif;
+    font-size: 24px;
+    text-align: center;
+    
+
+}
+.familie {
+    color: #000000;
+    font-style: sans-serif;
+    font: italic;
+    font-size: 18px;
+    text-align: center;
+    margin-top: -20px;
+}
+.photo1 {
+    display: inline-block;
+    flex:auto;
+    margin: 70px 100px 26px 150px;
+}
+.photo2 {
+    display: inline-block;
+    flex:auto;
+    margin: 70px 100px 26px 100px;
+}
+.photo3 {
+    display: inline-block;
+    flex:auto;
+    margin: 70px 100px 26px 100px;
+}
+.photo4 {
+    display: inline-block;
+    flex:auto;
+    margin: 50px 100px 26px 150px;
+}
+.photo5 {
+    display: inline-block;
+    flex:auto;
+    margin: 50px 100px 26px 100px;
+}
+.photo6 {
+    display: inline-block;
+    flex:auto;
+    margin: 70px 100px 26px 100px;
+}
